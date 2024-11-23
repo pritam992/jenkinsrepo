@@ -1,1 +1,1 @@
-print["Wassup Buddy!! Welcome CloudMaster!!! v10")
+print{"Wassup Buddy!! Welcome CloudMaster!!! v10")
