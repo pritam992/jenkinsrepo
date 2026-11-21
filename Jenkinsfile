@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Build') {
+        stage('Build-new') {
             steps {
                 echo 'This is a sample build, real build is going to be implemented soon...'
             }
